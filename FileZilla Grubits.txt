@@ -1,0 +1,9 @@
+Värd: www.grubits.se
+
+Servertyp: FTP - File Transfer Protocol
+
+Inloggningstyp: Normal
+
+Användare: cu-7brato.1
+
+Lösendord:
